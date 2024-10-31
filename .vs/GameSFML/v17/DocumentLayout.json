@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Game.cpp",
               "ToolTip": "C:\\Users\\kalil\\Documents\\sfml\\GameSFML\\Game.cpp",
               "RelativeToolTip": "Game.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-29T15:10:12.606Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Game.h",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAEkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-29T15:06:34.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T15:06:34.762Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-29T14:14:53.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T14:14:53.908Z"
             }
           ]
         }
