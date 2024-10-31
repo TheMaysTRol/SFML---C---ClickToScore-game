@@ -1,0 +1,3 @@
+﻿  Game.cpp
+Game.obj : error LNK2001: unresolved external symbol "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+C:\Users\kalil\Documents\sfml\GameSFML\x64\Debug\GameSFML.exe : fatal error LNK1120: 1 unresolved externals
